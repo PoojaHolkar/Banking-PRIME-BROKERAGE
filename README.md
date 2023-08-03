@@ -1,4 +1,4 @@
-##Proposal
+Proposal
 
 The asset is intended to aid stock borrowing and lending managers by providing various data insights into current positions of trades. This also showcases how IBM Cloud Pak for Data(CP4D) can act as enablement of generating SBL files (stock borrowing & lending files). This file enables the SBL manager to get various data insights on current trends and positions. It gathers data from various sources, transforms and generates visualization, while doing so, it also creates a data model, tracks lineage and creates a metadata catalog, and keeps an eye on data pipelines (data observability)
 
