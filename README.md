@@ -1,6 +1,6 @@
-#Proposal
+##Proposal
 
-The asset is intended to aid stock borrowing and lending managers by providing various data insights into current positions of trades. This also showcases how IBM Cloud Pak for Data(CP4D) can act as an enablement of generating SBL files (stock borrowing & lending files). This file enables the SBL manager to get various data insights on current trends and positions.It gathers data from various sources, transforms and generates visualization, while doing so, it also creates a data model, tracks lineage and creates a metadata catalog, keeps an eye on data pipelines (data observability)
+The asset is intended to aid stock borrowing and lending managers by providing various data insights into current positions of trades. This also showcases how IBM Cloud Pak for Data(CP4D) can act as enablement of generating SBL files (stock borrowing & lending files). This file enables the SBL manager to get various data insights on current trends and positions. It gathers data from various sources, transforms and generates visualization, while doing so, it also creates a data model, tracks lineage and creates a metadata catalog, and keeps an eye on data pipelines (data observability)
 
 This asset focuses to address key problems in financial markets such as data silos, data quality, lack of lineage and data catalogs, no data observability, etc.,
 
@@ -10,6 +10,6 @@ The use-case is representative of many other such business processes in BFSI and
 
 Purpose
 
-Objective of this asset is to enable banks and brokerage firms to make their stock borrowing and lending process easy and efficient by leveraging IBM Technologies.
+The objective of this asset is to enable banks and brokerage firms to make their stock borrowing and lending process easy and efficient by leveraging IBM Technologies.
 
-This asset aligns with BFSI’s IBM play for Data Fabric. It also involves the key capabilities in CP4Dv4.6 around data lineage with MANTA. IBM has also recently acquired Databand, around Data Observability.Currently, the story around data catalog, lineage, and observability is fragmented and told in silos. This asset weaves together these elements into a single storyboard with a complex BFSI use case to make it contextual to an industry-focused conversation.
+This asset aligns with BFSI’s IBM play for Data Fabric. It also involves the key capabilities in CP4Dv4.6 around data lineage with MANTA. IBM has also recently acquired Databand, around Data Observability. Currently, the story around data catalog, lineage, and observability is fragmented and told in silos. This asset weaves together these elements into a single storyboard with a complex BFSI use case to make it contextual to an industry-focused conversation.
